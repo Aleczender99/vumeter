@@ -78,7 +78,7 @@ void Task2code( void * pvParameters ){
 ```
 
 
-![Citiri Senzori](src/Citiri Senzori.PNG)
+![Citiri Senzori](src/CitiriSenzori.PNG)
 
 
 ### Maparea pentru afisarea valorilor
