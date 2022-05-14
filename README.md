@@ -77,9 +77,9 @@ void Task2code( void * pvParameters ){
 }
 ```
 
-```
-Baga ss cu exemplu de valori
-```
+
+![Citiri Senzori](src/Citiri Senzori.PNG)
+
 
 ### Maparea pentru afisarea valorilor
 
