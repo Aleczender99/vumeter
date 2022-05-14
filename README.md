@@ -46,6 +46,8 @@ Codul folosit este urmatorul:
 
 O data ce sunetul este receptat de catre microfon si filtrat prin acest set, valorile de intensitate de sunet pentru fiecare categorie de frecvente sunt transmise catre microcontroller. In plus am implementat o marja de zgomot pentru afisare (valorile citite mai mici de 3).
 
+![Schema](src/7945a24c-7f7f-4440-8351-de8ab81ef8eb.jpg)
+
 ```cpp
 void Task2code( void * pvParameters ){
   Serial.print("Task2 running on core ");
