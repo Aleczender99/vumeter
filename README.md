@@ -120,3 +120,9 @@ Acest lucru se face prin functia `lc.setRow` ce preia din urmatoarea lista valoa
 ```cpp
 byte coloana[9] = { B00000000, B00000001, B00000011, B00000111, B00001111, B00011111, B00111111, B01111111, B11111111 };
 ```
+
+
+### Galerie foto
+<img src="src/WhatsApp Image 2022-05-14 at 14.46.28 (1).jpeg" width="30%"></img> 
+<img src="src/WhatsApp Image 2022-05-14 at 14.46.28 (2).jpeg" width="30%"></img> 
+<img src="src/WhatsApp Image 2022-05-14 at 14.46.28.jpeg" width="30%"></img> 
