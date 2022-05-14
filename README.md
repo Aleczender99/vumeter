@@ -10,6 +10,8 @@ Dispozitivul este compus dintr-un microfon analogic, a carui iesire este conecta
 Intreg modulul este alimentat cu ajutorul unei surse de 12V 2A, care este conectata la un circuit de step-down la 5V.
 Iesirile celor trei filtre sunt conectate la intrarile analogice ale controller-ului ESP32 Wroom 2
 
+![Schema](src/Screenshot_46.png)
+
 ## Modelul de functionalitate
 
 ### Procesarea multi-core
